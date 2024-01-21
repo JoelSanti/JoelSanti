@@ -15,10 +15,18 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoelSanti&hide_progress=true&theme=merko)
+## Lenguajes más usados 📊
 
-![JoelSanti GitHub stats](https://github-readme-stats.vercel.app/api?username=JoelSanti&show_icons=true&theme=merko)
-
+<table style="width: 100%;">
+  <tr>
+    <td style="text-align: left;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelSanti&hide_progress=true&theme=merko" alt="Top Langs">
+    </td>
+    <td style="text-align: right;">
+      <img src="./giphy.gif" alt="Banner" width="200">
+    </td>
+  </tr>
+</table>
 
 
 <!--
