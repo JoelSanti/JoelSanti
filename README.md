@@ -17,16 +17,16 @@
 
 
 ## Lenguajes más usados 💻
-<br>
-<div style="display: grid; grid-template-columns: 1fr 1fr; align-items: start;">
-  <div style="justify-self: start;">
+
+<div style="display: grid; grid-template-columns: 1fr 1fr;">
+  <div style="justify-self: start; align-self: start;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelSanti&hide_progress=true&theme=merko" alt="Top Langs" style="max-width: 100%;">
   </div>
-  <div style="justify-self: end;">
+  <div style="justify-self: end; align-self: start;">
     <img src="./giphy.gif" alt="Banner" width="200" style="max-width: 100%;">
   </div>
 </div>
-<br>
+
 
 
 
