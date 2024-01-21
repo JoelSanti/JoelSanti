@@ -15,18 +15,20 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## Lenguajes más usados 💻
 
-<table style="width: 100%; border: 0;">
-  <tr>
-    <td style="text-align: left; border: 0;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelSanti&hide_progress=true&theme=merko" alt="Top Langs">
-    </td>
-    <td style="text-align: right; border: 0;">
-      <img src="./giphy.gif" alt="Banner" width="200">
-    </td>
-  </tr>
-</table>
+## Lenguajes más usados 💻
+<br>
+
+<div style="display: grid; grid-template-columns: 1fr 1fr; justify-items: stretch;">
+  <div style="justify-self: start;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelSanti&hide_progress=true&theme=merko" alt="Top Langs">
+  </div>
+  <div style="justify-self: end;">
+    <img src="./giphy.gif" alt="Banner" width="200">
+  </div>
+</div>
+<br>
+
 
 
 <!--
