@@ -45,8 +45,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="display: flex; justify-content: center; align-items: center; height: 100%;">
-
-# BIENVENIDO A PERFIGIT
-
-</div>
